@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PlayerDataGenerator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PlayerDataGenerator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
